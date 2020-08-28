@@ -8375,7 +8375,7 @@ h1, h2, h3, h4, h5,
 
 .wrap {
   background: rgba(0, 0, 0, 0.1);
-  background: #00043c;
+  background: #212529;
   top: 0px;
   left: 0;
   right: 0;
@@ -8905,16 +8905,16 @@ h1, h2, h3, h4, h5,
     border: 2px solid  #18a577;
     color: #fff; }
     .btn.btn-primary:hover {
-      border: 2px solid #eec857;
+      border: 2px solid  #18a577;
       background: transparent;
-      color: #eec857; }
+      color:  #18a577; }
     .btn.btn-primary.btn-outline-primary {
-      border: 2px solid #eec857;
+      border: 2px solid  #18a577;
       background: transparent;
-      color: #eec857; }
+      color:  #18a577; }
       .btn.btn-primary.btn-outline-primary:hover {
         border: 2px solid transparent;
-        background: #eec857;
+        background:  #18a577;
         color: #fff; }
   .btn.btn-secondary {
     background: #18a577;
@@ -8969,8 +8969,8 @@ h1, h2, h3, h4, h5,
     border: 2px solid #fff5ed;
     color: #000000; }
     .btn.btn-light:hover {
-      border: 2px solid #eec857;
-      background: #eec857;
+      border: 2px solid  #18a577;
+      background:  #18a577;
       color: #000000; }
     .btn.btn-light.btn-outline-light {
       border: 2px solid #fff5ed;
@@ -9019,7 +9019,7 @@ h1, h2, h3, h4, h5,
   border-radius: 50%; }
   .icon-video span {
     font-size: 20px;
-    color: #eec857; }
+    color:  #18a577; }
 
 .services {
   width: 100%; }
@@ -9062,11 +9062,11 @@ h1, h2, h3, h4, h5,
       .services .img .icon span {
         font-size: 48px; }
     .services .img.border-1:after {
-      background: #eec857; }
+      background:  #18a577; }
     .services .img.border-1 .icon {
-      border: 4px solid #eec857; }
+      border: 4px solid  #18a577; }
       .services .img.border-1 .icon span {
-        color: #eec857; }
+        color:  #18a577; }
     .services .img.border-2:after {
       background: #18a577; }
     .services .img.border-2 .icon {
@@ -9099,7 +9099,7 @@ h1, h2, h3, h4, h5,
       font-size: 60px;
       color: #fff; }
     .services-2 .icon.icon-1 {
-      background: #eec857; }
+      background:  #18a577; }
     .services-2 .icon.icon-2 {
       background: #18a577; }
     .services-2 .icon.icon-3 {
@@ -9163,9 +9163,9 @@ h1, h2, h3, h4, h5,
       font-weight: 600;
       color: #18a577; }
   .causes .btn-light:hover {
-    background: #eec857 !important;
+    background:  #18a577 !important;
     color: #000000 !important;
-    border: 2px solid #eec857 !important; }
+    border: 2px solid  #18a577 !important; }
   .causes:hover .text {
     background: #fff5ed; }
     .causes:hover .text:after {
@@ -9453,7 +9453,7 @@ textarea.form-control {
   background: #18a577; }
 
 .form-radio .radio input:checked.checkmark {
-  border: 2px solid #eec857 !important; }
+  border: 2px solid  #18a577 !important; }
 
 .ftco-hireme {
   padding: 4em 0;
@@ -9735,7 +9735,7 @@ textarea.form-control {
     .volunteer .text span {
       color: rgba(255, 255, 255, 0.7); }
     .volunteer .text.text-1 {
-      background: #eec857; }
+      background:  #eec857; }
     .volunteer .text.text-2 {
       background: #fd645b; }
     .volunteer .text.text-3 {
@@ -9825,7 +9825,7 @@ textarea.form-control {
       .blog-entry .text .heading a {
         color: #000000; }
         .blog-entry .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
-          color: #eec857; }
+          color: #18a577; }
     .blog-entry .text .meta-chat {
       color: #18a577; }
     .blog-entry .text .read {
@@ -9888,7 +9888,7 @@ textarea.form-control {
       border-radius: 50%;
       border: 2px solid #e6e6e6; }
     .block-27 ul li.active a, .block-27 ul li.active span {
-      background: #eec857;
+      background:  #18a577;
       color: #fff;
       border: 1px solid transparent; }
 
@@ -9924,7 +9924,7 @@ textarea.form-control {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background: #eec857;
+    background:  #18a577;
     margin: 0 auto;
     margin-bottom: 20px; }
     .dbox .icon span {
@@ -9965,7 +9965,7 @@ textarea.form-control {
     /* Firefox 18- */
     color: rgba(0, 0, 0, 0.5) !important; }
   .contactForm .form-control:focus, .contactForm .form-control:active {
-    border-color: #eec857 !important; }
+    border-color:  #18a577 !important; }
 
 .contactForm textarea.form-control {
   height: inherit !important; }
@@ -9990,7 +9990,7 @@ textarea.form-control {
     .block-21 .text .heading a {
       color: #000000; }
       .block-21 .text .heading a:hover, .block-21 .text .heading a:active, .block-21 .text .heading a:focus {
-        color: #eec857; }
+        color:  #18a577; }
   .block-21 .text .meta > div {
     display: inline-block;
     font-size: 12px;
@@ -10119,11 +10119,11 @@ textarea.form-control {
       color: #ccc; }
     .categories li a:hover, .categories li a:focus, .sidelink li a:hover, .sidelink li a:focus {
       outline: none;
-      color: #eec857; }
+      color:  #18a577; }
   .categories li.active a, .sidelink li.active a {
-    color: #eec857; }
+    color:  #18a577; }
     .categories li.active a span, .sidelink li.active a span {
-      color: #eec857; }
+      color:  #18a577; }
 
 #ftco-loader {
   position: fixed;
